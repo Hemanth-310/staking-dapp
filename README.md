@@ -5,6 +5,7 @@
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=flat&logo=react)
 ![ethers.js](https://img.shields.io/badge/ethers.js-v5-purple?style=flat)
 
+![YieldX Staking dApp](STAKING-DAPP.png)
 A fully functional decentralized staking platform where users can stake SRT tokens, earn yield in real time, and claim rewards — all through a clean React interface connected to MetaMask.
 
 ---

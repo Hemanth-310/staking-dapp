@@ -1,0 +1,10 @@
+node_modules/
+.env
+artifacts/
+cache/
+typechain-types/
+artifacts 2/
+package-lock 2.json
+frontend/node_modules/
+frontend/dist/
+*.bak
